@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/selene-banner.png"
+  <img src="assets/Selene-banner.png"
        width="100%"
        alt="SELENE — Wearable Multi-Sensor Health Monitoring System">
 </div>
