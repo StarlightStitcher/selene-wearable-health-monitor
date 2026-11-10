@@ -5,6 +5,7 @@
 </div>
 
 <br>
+
 🌙 SELENE —
  Wearable Multi-Sensor Health Monitoring System
 
@@ -27,8 +28,20 @@ The project emphasizes reliable sensor integration, signal quality, real-time co
 **Firmware:** MicroPython 1.28  
 **Project collaborators:** Regina Velazquez and Sarah Garza
 
-## ✧ System Features
 
+## ✧ System Architecture
+
+The following diagram illustrates SELENE's sensor integration,
+embedded processing, contact-detection logic, and wireless
+communication architecture.
+
+<p align="center">
+  <img src="assets/system-architecture.png"
+       width="100%"
+       alt="SELENE system architecture diagram">
+</p>
+
+## ✧ System Features
 - Multi-sensor physiological data acquisition
 - Heart rate estimation from photoplethysmography (PPG) signals
 - SpO₂ estimation using the ratio-of-ratios method
