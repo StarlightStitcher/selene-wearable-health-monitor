@@ -123,6 +123,26 @@ This allows a compatible BLE client to receive the measurements wirelessly.
 
 ## ✧ Prototype & Enclosure
 
+## ✧ Prototype Development
+
+### CAD Enclosure Concept
+
+The enclosure concept was developed in SolidWorks to accommodate the sensor interface, electronics, and wearable attachment. The design includes a removable snap-top, a dedicated sensor opening, an OLED display cutout, and wearable-band placement.
+
+<p align="center">
+  <img src="assets/selene-enclosure.png" width="75%" alt="SELENE enclosure CAD concept">
+</p>
+
+### Physical Prototype
+
+The early physical prototype demonstrates the electronics assembly, battery integration, and initial hardware packaging.
+
+<p align="center">
+  <img src="assets/selene-prototype.png" width="75%" alt="SELENE early physical prototype">
+</p>
+
+*The photographs document an early development stage and are not representative of a finalized wearable enclosure.*
+
 The enclosure was designed in SolidWorks with consideration for sensor alignment, electronics accessibility, and wearable attachment.
 
 Design features included:
