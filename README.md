@@ -1,5 +1,12 @@
-# 🌙 SELENE
-### Wearable Multi-Sensor Health Monitoring System
+<div align="center">
+  <img src="assets/selene-banner.png"
+       width="100%"
+       alt="SELENE — Wearable Multi-Sensor Health Monitoring System">
+</div>
+
+<br>
+🌙 SELENE —
+ Wearable Multi-Sensor Health Monitoring System
 
 <p align="center">
   <i>Continuous physiological monitoring through embedded systems, sensor integration, and wireless communication.</i>
