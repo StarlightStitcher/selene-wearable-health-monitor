@@ -1,5 +1,19 @@
-# Firmware Testing
+# SELENE Sensor Validation Tests
 
-This directory contains individual sensor tests and validation scripts developed during SELENE's hardware and software integration.
+This directory contains standalone test scripts used to validate the individual sensors before system integration.
 
-These tests were used to evaluate sensor communication, data acquisition, and measurement functionality before system integration.
+## Test Scripts
+
+| File | Description |
+|---|---|
+| `test_max30102.py` | Tests red and infrared PPG data acquisition from the MAX30102 sensor. |
+| `test_max30205.py` | Tests temperature readings from the MAX30205 sensor. |
+| `test_veml7700.py` | Tests ambient light measurements and skin-contact detection using the VEML7700 sensor. |
+
+## Running the Tests
+
+Run each test script independently on the Raspberry Pi Pico 2 W using MicroPython.
+
+The corresponding sensor driver must be available on the device.
+
+These tests support individual sensor validation prior to full system integration.
