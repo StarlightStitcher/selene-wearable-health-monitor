@@ -1,0 +1,5 @@
+# Firmware Testing
+
+This directory contains individual sensor tests and validation scripts developed during SELENE's hardware and software integration.
+
+These tests were used to evaluate sensor communication, data acquisition, and measurement functionality before system integration.
